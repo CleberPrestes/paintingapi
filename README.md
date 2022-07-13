@@ -8,4 +8,5 @@ https://app-painting.herokuapp.com/paintings
 https://app-painting.herokuapp.com/paintings/order
 
 #Lista de pinturas ordenada por estilo
-http://localhost:8080/paintings/type?searchTerm=Barroco
+https://app-painting.herokuapp.com/paintings/type?searchTerm=Barroco
+
