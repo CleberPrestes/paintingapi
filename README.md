@@ -8,5 +8,5 @@ https://app-painting.herokuapp.com/paintings
 https://app-painting.herokuapp.com/paintings/order
 
 #Lista de pinturas ordenada por estilo
-https://app-painting.herokuapp.com/paintings/type?searchTerm=Barroco
+https://app-painting.herokuapp.com/paintings/type?searchTerm=Renascimento
 
